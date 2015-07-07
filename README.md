@@ -1,2 +1,2 @@
 # test_repo2
-more_test
+This is a read me file 
